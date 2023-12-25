@@ -1,0 +1,118 @@
+.jobBackground {
+  background-color: #000000;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+}
+
+@media screen and (min-height: 768px) {
+  .jobBackground {
+    padding: 40px;
+  }
+}
+
+.searchBackground {
+  background-color: transparent;
+  border: 1px solid #202020;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 6px 12px 6px 12px;
+  margin-left: 45px;
+}
+
+@media screen and (min-width: 768px) {
+  .searchBackground {
+    padding: 8px 30px 8px 30px;
+    width: 35%;
+  }
+}
+
+.searchInput {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  flex-grow: 1;
+}
+
+.search-icon {
+  color: #202020;
+  width: 20px;
+  height: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+.jobItemContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.secondBg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.firstBg {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.profileBtn {
+  background-color: #6366f1;
+  font-family: 'Roboto';
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.employmentType {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+
+.employLine {
+  border-top: 2px solid #202020;
+  margin: 0px;
+}
+
+.employmentTypeHeading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.EmploymentListContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.loader-container {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}

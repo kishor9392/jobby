@@ -1,0 +1,154 @@
+.detailsBg {
+  background-color: #202020;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 8px;
+  margin-top: 28px;
+  padding: 18px 40px 18px 40px;
+}
+
+.bg24 {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.descriptionContainer1 {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+.visit {
+  color: #6366f1;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+
+  text-decoration: none;
+}
+
+.vbg {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.i {
+  margin: 2px;
+  color: #6366f1;
+}
+.jobDescriptionHeading1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.jobDescription1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 300;
+}
+
+.skillImg {
+  height: 40px;
+  width: 40px;
+  margin: 5px;
+}
+
+.skillList {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skillPar {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.skillUl {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.skillCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.lifeCon {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.lifeCon1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.lifePara {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.lifeImg {
+  width: 350px;
+  height: 350px;
+  margin: 10px;
+}
+
+.sUl {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+.loader-container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.eCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.f2 {
+  width: 400px;
+  height: 400px;
+  margin: 4px;
+}
+.e1 {
+  font-size: 25px;
+  font-weight: 500;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.e2 {
+  font-size: 14px;
+  font-weight: 300;
+  color: #ffffff;
+  font-family: 'Roboto';
+}

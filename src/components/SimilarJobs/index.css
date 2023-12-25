@@ -1,0 +1,29 @@
+.similarCon {
+  background-color: #202020;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 20px 12px 20px;
+  margin: 12px;
+  list-style-type: none;
+}
+
+.sdCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.dh1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.dPar {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
+}

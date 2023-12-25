@@ -1,0 +1,25 @@
+.profileBg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  padding: 8px 20px 8px 20px;
+  width: 200px;
+}
+
+.profileImg {
+  width: 30px;
+  height: 30px;
+}
+
+.profileName {
+  color: #b6c5ff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.ProfilePara {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}

@@ -1,0 +1,114 @@
+.itemListCon {
+  list-style-type: none;
+  background-color: #202020;
+  padding: 12px 30px 12px 30px;
+  border-radius: 8px;
+  margin: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pip {
+  text-decoration: none;
+}
+
+.cLogoContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.cLogo {
+  width: 60px;
+  height: 60px;
+  margin-left: 8px;
+  margin-right: 12px;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.itemTitle {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.titleSubContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.IconStar {
+  color: #fbbf24;
+  height: 30px;
+  width: 30px;
+  margin-right: 6px;
+}
+
+.ratingItem {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.itemTypeContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+
+.typeSub {
+  display: flex;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.location {
+  color: #ffffff;
+  width: 35px;
+  height: 35px;
+}
+
+.jobLocation {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.hrLine {
+  border-top: 1px solid #202020;
+  margin: 0px;
+  text-decoration: none;
+}
+
+.descriptionContainer {
+  margin-top: 4px;
+}
+
+.jobDescriptionHeading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.jobDescription {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.xContainer {
+  display: flex;
+}

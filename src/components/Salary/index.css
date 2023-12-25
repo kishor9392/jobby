@@ -1,0 +1,11 @@
+.salaryCon {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.salaryLabel {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
